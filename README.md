@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **new tools, frameworks, and languages**
 - 💬 Ask me about **C#, .NET, SQL Server, JavaScript, Python, HTML, CSS, Angular**
 - 📫 How to reach me: **fernando12091502@gmail.com**
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/fernando-arturo-ramirez-lopez-3a34a2307)
+- 📄 Know about my experiences: (https://www.linkedin.com/in/fernando-arturo-ramirez-lopez-3a34a2307)
 
 ---
 
