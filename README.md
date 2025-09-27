@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Fernando Arturo
 
-<!--
-**Fer1211/Fer1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas  
+💻 Interesado en: Desarrollo Backend y Frontend, Bases de datos, etc.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- Lenguajes: Python, C#, JavaScript
+- Frameworks y librerías: .NET, ASP.NET Core, Angular
+- Herramientas: Docker, Git, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos Destacados
+- Sistema de Gestión de Recursos Humanos
+  Aplicación para gestionar empleados, asistencias y permisos.
+- ToDo List en Python
+  Aplicación de consola para organizar tareas con prioridades.
+
+## 📫 Contacto
+- LinkedIn: (https://www.linkedin.com/in/fernando-arturo-ram%C3%ADrez-l%C3%B3pez-3a34a2307/?locale=en_US)
+- Correo: fernando12091502@gmail.com
