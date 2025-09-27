@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **new tools, frameworks, and languages**
 - 💬 Ask me about **C#, .NET, SQL Server, JavaScript, Python, HTML, CSS, Angular**
 - 📫 How to reach me: **fernando12091502@gmail.com**
-- 📄 Know about my experiences: https://www.linkedin.com/in/fernando-arturo-ramirez-lopez-3a34a2307
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/fernando-arturo-ramirez-lopez-3a34a2307)
 
 ---
 
@@ -39,9 +39,8 @@
 ---
 
 <h3 align="left">📂 Projects:</h3>
-
-
-**ToDo List en Python** – Aplicación de consola para organizar tareas con prioridades.
+**Sistema de Gestión de Recursos Humanos(https://github.com/tuusuario/proyectoHR) – App para gestionar empleados, asistencias y permisos.  
+**ToDo List en Python(https://github.com/tuusuario/todolist) – Aplicación de consola para organizar tareas con prioridades.
 
 ---
 
