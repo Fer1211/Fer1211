@@ -39,8 +39,9 @@
 ---
 
 <h3 align="left">📂 Projects:</h3>
-- [**Sistema de Gestión de Recursos Humanos**](https://github.com/tuusuario/proyectoHR) – App para gestionar empleados, asistencias y permisos.  
-- [**ToDo List en Python**](https://github.com/tuusuario/todolist) – Aplicación de consola para organizar tareas con prioridades.
+- **Sistema de Gestión de Recursos Humanos** – App para gestionar empleados, asistencias y permisos. 
+
+- **ToDo List en Python** – Aplicación de consola para organizar tareas con prioridades.
 
 ---
 
