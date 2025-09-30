@@ -40,8 +40,8 @@
 
 <h3 align="left">📂 Projects:</h3>
 
-ToDo List en Python – Aplicación de consola para organizar tareas con prioridades.
+ToDo List en Python – Console application to organize tasks with priorities.
 
 ---
 
-✨ Gracias por visitar mi portafolio 🚀
+✨ Thanks for visiting my portfolio 🚀
